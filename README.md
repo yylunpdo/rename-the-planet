@@ -8,7 +8,7 @@ One funny new name for a planet in our solar system, plus the why, in a single l
 
 ## The line
 
-> Neptune is now 'The Group Chat Ghost' because it takes 165 years to reply, and when it does, it's just blue ticks.
+> Neptune is now 'The Group Chat Ghost' because it takes 165 years to reply, and when it finally does, it's only blue ticks.
 
 Neptune takes about 165 Earth years to complete one orbit, and it is famously blue — so a reply that takes 165 years and arrives as nothing but blue ticks earns the name.
 

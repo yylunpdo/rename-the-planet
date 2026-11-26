@@ -15,7 +15,7 @@ import os
 
 ENTRY = (
     "Neptune is now 'The Group Chat Ghost' because it takes 165 years "
-    "to reply, and when it does, it's just blue ticks."
+    "to reply, and when it finally does, it's only blue ticks."
 )
 
 
